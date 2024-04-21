@@ -6,3 +6,7 @@ Some description !
 
 Learning through freecodecamp
 
+# local development
+
+1.Open index.html in browser.
+
